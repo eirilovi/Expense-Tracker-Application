@@ -3,11 +3,14 @@ Assignment 1 – Mobile applications
 ## Application architecture: 
 The application architecture comprises two layers: the UI Layer and the Data Models. The UI Layer includes Chart, ChartBar, ExpensesList, ExpenseItem, ExpenseMenu, and Expenses. In the Data Models layer, we have Category and Expense, which underpin the core functionalities enabling users to categorize and organize their expenses effectively.
 
-## User Story: As a user, I want to effortlessly track my expenses by entering titles, amounts, dates, and categories. I also want to view insightful charts showing my spending patterns, making financial management a breeze.
+## User Story: 
+As a user, I want to effortlessly track my expenses by entering titles, amounts, dates, and categories. I also want to view insightful charts showing my spending patterns, making financial management a breeze.
 
-## Specifications: The specifications of the assignment can be found [here](https://docs.google.com/document/d/1NN_8vQoxLk_hnm8AVWTyfnkeDqMhBqonc5t1VH394lU/edit)
+## Specifications: 
+The specifications of the assignment can be found [here](https://docs.google.com/document/d/1NN_8vQoxLk_hnm8AVWTyfnkeDqMhBqonc5t1VH394lU/edit)
 
-## Folder structure: In the app's folder structure, the 'lib' directory is the root, and 'main.dart' is the primary application file. Custom widgets are organized into separate files, including 'chart.dart,' 'chart_bar.dart,' 'expense_item.dart,' 'expenses-list.dart,' 'category_page.dart,' 'expenses.dart,' and 'new_expense.dart.'
+## Folder structure: 
+In the app's folder structure, the 'lib' directory is the root, and 'main.dart' is the primary application file. Custom widgets are organized into separate files, including 'chart.dart,' 'chart_bar.dart,' 'expense_item.dart,' 'expenses-list.dart,' 'category_page.dart,' 'expenses.dart,' and 'new_expense.dart.'
 
 ## Class Diagram
 ```mermaid
@@ -105,3 +108,6 @@ classDiagram
     _NewExpenseState : +build() Widget
     State <|-- _NewExpenseState
 ```
+
+##Peer review
+I have not managed to contact my partner.
