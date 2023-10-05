@@ -109,5 +109,5 @@ classDiagram
     State <|-- _NewExpenseState
 ```
 
-##Peer review
-I have not managed to contact my partner.
+## Peer review
+I have not managed to get in contact with my partner.
