@@ -110,4 +110,4 @@ classDiagram
 ```
 
 ## Peer review
-I have not managed to get in contact with my partner.
+The collaboration with my peer-to-peer review classmate for Assignment 1 began on Thursday, October 5th, in the later stages of the project. Despite the delayed start, our exchange of input and insights proved highly beneficial, significantly improving the quality of our work. This experience highlighted the value of effective communication and its impact on project outcomes, even when initiated late in the process.
